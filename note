@@ -1,0 +1,10 @@
+<!-- Sự khác biệt giữa inline và block:  -->
+- Block: nằm trên 1 dòng mới <span>
+- inline: nằm trên cùng 1 dòng cho tới khi view k chứa được nữa thì mới xuống hàng <div>
+<!-- có mấy cách thêm hlml vào css -->
+3 cách
+<!-- ưu tiên trong css -->
+- inline -> internal
+- id -> class -> tagname
+- bottom -> top
+- !important
