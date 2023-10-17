@@ -1,0 +1,26 @@
+
+
+.p1{
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 16px;
+    letter-spacing: 3px;
+    margin-right: -3px;
+    color: #292929;
+    text-align: center;
+}
+.class-p{
+    font-size: 13px;
+    line-height: 24px;
+    margin-bottom: 64px;
+    color: #666;
+    text-align: center;
+}
+
+.image{
+    width: 269px;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
